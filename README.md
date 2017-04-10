@@ -1,1 +1,1 @@
-# cnv_wgs
+# cnv_wgsScripts to run CNV pipeline on WGS data from CGI.
